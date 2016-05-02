@@ -1,0 +1,11 @@
+{
+  "name": "rdt-editor-desktop",
+  "productName": "RDT Editor",
+  "version": "1.0.0",
+  "description": "Editor for Wikipedia RDT",
+  "author": "XiNGRZ <chenxingyu92@gmail.com>",
+  "main": "background.js",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
